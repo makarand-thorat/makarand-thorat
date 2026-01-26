@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Test Automation with selenium and Playwright.<br> I am also exploring software development with Java Spring  Boot Framework
+I am currently working on Test Automation with Selenium and Playwright.<br> I am also exploring software development with Java Spring  Boot Framework
 
 
 ## 🌐 Socials:
