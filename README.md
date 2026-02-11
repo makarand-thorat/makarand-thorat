@@ -45,8 +45,8 @@
 ---
 
 ### 📈 GitHub Stats
-![Makarand's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical)
+![Makarand's GitHub stats](https://github-readme-stats.vercel.app/api?username=makarand-thorat&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makarand-thorat&layout=compact&theme=radical)
 
 ---
 
