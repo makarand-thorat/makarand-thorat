@@ -44,12 +44,6 @@
 
 ---
 
-### 📈 GitHub Stats
-![Makarand's GitHub stats](https://github-readme-stats.vercel.app/api?username=makarand-thorat&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makarand-thorat&layout=compact&theme=radical)
-
----
-
 ### 📬 Connect with me:
 - 📧 [Email](mailto:makarandthorat30@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/makara
