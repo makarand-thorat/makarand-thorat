@@ -43,13 +43,6 @@
 ![ServiceNow](https://img.shields.io/badge/servicenow-%23293E40.svg?style=for-the-badge&logo=servicenow&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=makarand-thorat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=makarand-thorat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=makarand-thorat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 ### 📬 Connect with me:
 - 📧 [Email](mailto:makarandthorat30@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/makara
