@@ -94,8 +94,8 @@
 | AI Fluency: Frameworks and Foundations | Anthropic | 2026 |
 | Introduction to Agent Skills | Anthropic | 2026 |
 | Software Engineering Job Simulation (Java, Spring Boot, Kafka) | JPMorganChase / Forage | 2026 |
-| Certified Associate System Administrator | ServiceNow | — |
-| Fundamentals of Deep Learning for Computer Vision | NVIDIA Deep Learning Institute | — |
+| Certified Associate System Administrator | ServiceNow | 2025 |
+| Fundamentals of Deep Learning for Computer Vision | NVIDIA Deep Learning Institute | 2019 |
 
 ---
 
